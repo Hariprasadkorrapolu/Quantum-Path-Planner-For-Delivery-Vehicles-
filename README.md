@@ -16,13 +16,20 @@ An intelligent path optimization system that leverages **quantum computing techn
 ## 🖼️ Screenshots
 
 ### 🛣️ Route Planning
-![Route Planning](assets/route_planning.png)
+![Route Planning](assets/Route Planning.jpeg)
 
 ### 🗺️ Map Visualization
-![Map Visualization](assets/map_visualization.png)
+![Map Visualization](assets/Map Visualization.jpeg)
+
+
+### Perfomance Dashboard 
+![perfomance Dashboard](assests/pd-1.jpeg)
+
+![perfomance Dashboard](assests/pd-2.jpeg)
+
 
 ### 📂 Data Management
-![Data Management](assets/data_management.png)
+![Data Management](assets/dm-1.jpeg)
 
 ---
 
