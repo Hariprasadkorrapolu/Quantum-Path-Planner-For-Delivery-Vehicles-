@@ -29,7 +29,9 @@ An intelligent path optimization system that leverages **quantum computing techn
 
 
 ### 📂 Data Management
-![Data Management](Assets/dm-1.jpeg)
+![Data Management](Assets/dm_1.jpeg)
+
+
 
 ---
 
